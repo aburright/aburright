@@ -15,7 +15,6 @@
   <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="vmware" src="https://img.shields.io/badge/-VMWare-CB3837?style=flat&logo=vmware&logoColor=white" />
   <img alt="virtualbox" src="https://img.shields.io/badge/-VirtualBox-E34F26?style=flat&logo=virtualbox&logoColor=white" />
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=brave&logoColor=white" />
