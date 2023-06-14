@@ -1,7 +1,6 @@
 <h1>Andrew Burright<br />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
   <img alt="wireshark" src="https://img.shields.io/badge/-Wireshark-2088FF?style=flat&logo=wireshark&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
