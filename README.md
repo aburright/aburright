@@ -1,2 +1,3 @@
 <h1>Andrew Burright</h1>
-  <b>Cybersecurity Analyst and Network Administrator</b>
+  <b>University of West FLorida</b>
+    Bachelor of Science in Cyber Security
