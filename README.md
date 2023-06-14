@@ -1,3 +1,3 @@
 <h1>Andrew Burright
-  <br/> Cybersecurity Analyst and Network Administrator
+  <br/> <h2>Cybersecurity Analyst and Network Administrator</h2>
 </h1>
