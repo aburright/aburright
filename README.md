@@ -1,5 +1,5 @@
 <h1> Andrew Burright </h1>
-<div align="right">
+<div font-size="69">
 <h3> University of West Florida </h3>
 
 <b>Bachelor of Science in Cyber Security</b>
