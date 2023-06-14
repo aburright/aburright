@@ -20,11 +20,6 @@
   <img alt="vmware" src="https://img.shields.io/badge/-VMWare-CB3837?style=flat&logo=vmware&logoColor=white" />
   <img alt="virtualbox" src="https://img.shields.io/badge/-VirtualBox-E34F26?style=flat&logo=virtualbox&logoColor=white" />
   <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=brave&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat&logo=python&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </h1>
 
 <div align="right">
