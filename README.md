@@ -1,5 +1,5 @@
 <h1> Andrew Burright </h1>
-<div align="right">
+<div align="right"><p>
 <h3> University of West Florida </h3>
 
 <b>Bachelor of Science in Cyber Security</b>
@@ -8,4 +8,5 @@
 <b>Associate of Applied Science in Network Administration</b>
 <br />
 <b>Associate of Applied Science in IST - Cyber Security</b>
+  </p>
 </div>
