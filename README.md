@@ -3,29 +3,29 @@
 -IN PROGRESS 🔴
 ```
 
-<h1>Andrew Burright <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <br />
-  <h4>Group1: &nbsp; 
-  <a href="https://www.portal.azure.com"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" /> </a>
+<h1>Andrew Burright <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /><br />
+
+  
+  <h4>Programming Languages: &nbsp; 
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" />
   <img alt="wireshark" src="https://img.shields.io/badge/-Wireshark-2088FF?style=flat&logo=wireshark&logoColor=white" />
   </h4>
-  <h4>Group2: &nbsp;
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" />
+  <h4>Operating Systems: &nbsp;
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img alt="Kali" src="https://img.shields.io/badge/Kali Linux-268BEE?style=flat&logo=kalilinux&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
-  </h4>
-  <h4>Group3: &nbsp;
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   <img alt="macos" src="https://img.shields.io/badge/macOS-59666C?style=flat&logo=apple&logoColor=F0F0F0" />
   <img alt="Redhat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white" />
-  <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   </h4>
-  <h4>Group4: &nbsp;
+  <h4>Web/Cloud Servers : &nbsp;
+  <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
+  <a href="https://www.portal.azure.com"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" /> </a>
+  </h4>
+  <h4>Software: &nbsp;
   <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
   <img alt="vmware" src="https://img.shields.io/badge/-VMWare-CB3837?style=flat&logo=vmware&logoColor=white" />
   <img alt="virtualbox" src="https://img.shields.io/badge/-VirtualBox-E34F26?style=flat&logo=virtualbox&logoColor=white" />
