@@ -2,10 +2,10 @@
 <div align="right">
 <h4> University of West Florida </h4>
 
-  <h6>Bachelor of Science in Cyber Security</h6>>
+  <h6>Bachelor of Science in Cyber Security</h6>
   
-<h3> Delta College </h3>
-<b>Associate of Applied Science in Network Administration</b>
+<h4> Delta College </h4>
+<h6>Associate of Applied Science in Network Administration</h6>
 <br />
-<b>Associate of Applied Science in IST - Cyber Security</b>
+<h6>Associate of Applied Science in IST - Cyber Security</h6>
 </div>
