@@ -6,5 +6,6 @@
   
 <h3> Delta College </h3>
 <b>Associate of Applied Science in Network Administration</b>
+  \
 <b>Associate of Applied Science in IST - Cyber Security</b>
 </div>
