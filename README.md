@@ -26,11 +26,13 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-13aa52?style=flat&logo=python&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </h1>
+
 <div align="right">
 <h6>Bachelor of Science in Cyber Security<br /> Associate of Applied Science in Network Administration </br> Associate of Applied Science in IST - Cyber Security</h6>
 </div>
 
 <h2>👨‍💻Cyber Security Projects:</h2>
+
 - [Setup SIEM in Azure](www.google.com) 
   - Azure Portal
   - Azure Sentinel
