@@ -1,10 +1,5 @@
-### Andrew Burright
----
-**University of West Florida**
+<h1> Andrew Burright </h1>
+<br />
+<h3> University of West Florida <h3>
   - Bachelor of Science in Cyber Security
-\
-\
-\
-**Delta College**
-  - Associate in Applied Science in Network Administration
-  - Associate in Applied Science in IST - Cyber Security
+  
