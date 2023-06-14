@@ -1,3 +1,3 @@
-<h1>Andrew Burright</h1>
+#<h1>Andrew Burright</h1>
   <b>University of West Florida</b>
-    <p style="font-size:69px; ">Bachelor of Science in Cyber Security</p>
+    <p>Bachelor of Science in Cyber Security</p>
