@@ -11,4 +11,4 @@
 </p>
 
 
-<p style="text-align: right;">test</p>
+<p style="text-align: center;">test</p>
