@@ -16,7 +16,7 @@
   </h4>
   <h4>Operating Systems: &nbsp;
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img alt="Kali" src="https://img.shields.io/badge/Kali Linux-268BEE?style=flat&logo=kalilinux&logoColor=white" />
+  <img alt="Kali" src="https://img.shields.io/static/v1?style=flat&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" />
   <img alt="macos" src="https://img.shields.io/badge/macOS-59666C?style=flat&logo=apple&logoColor=F0F0F0" />
   <img alt="Redhat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=flat&logo=redhat&logoColor=white" />
@@ -24,12 +24,13 @@
   <h4>Web/Cloud Servers : &nbsp;
   <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" />
   <a href="https://www.portal.azure.com"><img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" /> </a>
+  <img alt="Amazon AWS" src="https://img.shields.io/static/v1?style=flat&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=" />
   </h4>
   <h4>Software: &nbsp;
-  <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white" />
-  <img alt="vmware" src="https://img.shields.io/badge/-VMWare-CB3837?style=flat&logo=vmware&logoColor=white" />
-  <img alt="virtualbox" src="https://img.shields.io/badge/-VirtualBox-E34F26?style=flat&logo=virtualbox&logoColor=white" />
-  <img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?style=flat&logo=brave&logoColor=white" />
+  <img alt="Office" src="https://img.shields.io/static/v1?style=flat&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=" />
+  <img alt="vmware" src="https://img.shields.io/static/v1?style=flat&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=" />
+  <img alt="virtualbox" src="https://img.shields.io/static/v1?style=flat&message=VirtualBox&color=183A61&logo=VirtualBox&logoColor=FFFFFF&label=" />
+  <img alt="Brave" src="https://img.shields.io/static/v1?style=flat&message=Brave&color=FB542B&logo=Brave&logoColor=FFFFFF&label=" />
   </h4>
 </h1>
 
