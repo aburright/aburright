@@ -3,7 +3,7 @@
 -IN PROGRESS 🔴
 ```
 
-<h1>Andrew Burright <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" /><br />
+<h1>Andrew Burright &nbsp; <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a><br />
 
   
   <h4>Programming Languages: &nbsp; 
