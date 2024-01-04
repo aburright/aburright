@@ -3,7 +3,7 @@
 -IN PROGRESS 🔴
 ```
 
-<h1>Andrew Burright &nbsp; <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <img alt="hackthebox" src= "https://img.shields.io/static/v1?style=flag&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=" /> <img alt="hackthebox" src= "https://img.shields.io/static/v1?style=flat&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=" /><br />
+<h1>Andrew Burright &nbsp; <a href="https://www.linkedin.com"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <img alt="hackthebox" src= "https://img.shields.io/static/v1?style=flag&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=" /> <img alt="tryhackme" src= "https://img.shields.io/static/v1?style=flat&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=" /><br />
 
   
   <h4>Programming Languages: &nbsp; 
